@@ -9,6 +9,6 @@ const random = Math.floor(Math.random()*1000) +1;
 
 const rem1 = 10;
 const rem2 = 6;
-const remainder = rem1%rem2;
+const mod = rem1%rem2;
 
 const max = Math.max(11, 12 , 13, 14, 15, 1, 4,  20 );
